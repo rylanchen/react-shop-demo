@@ -1,0 +1,67 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 345A-6A89
+D:\PROJECTS01\REACT-SHOP-DEMO\SRC
+|   App.css
+|   App.jsx
+|   App.tsx
+|   index.css
+|   main.tsx
+|   
++---assets
+|   |   react.svg
+|   |   
+|   \---products
+|           product1.png
+|           product2.png
+|           product3.png
+|           product4.png
+|           product5.png
+|           product6.png
+|           
++---components
+|   |   CategoryFilter.tsx
+|   |   Footer.tsx
+|   |   Header.tsx
+|   |   Layout.tsx
+|   |   Loader.tsx
+|   |   ProductCard.tsx
+|   |   SearchBar.tsx
+|   |   ThemeToggle.tsx
+|   |   
+|   \---tests
+|           ProductCard.test.tsx
+|           
++---context
+|       CartContext.tsx
+|       ThemeContext.tsx
+|       
++---data
+|       products.json
+|       
++---hooks
+|       useProducts.ts
+|       
++---pages
+|   |   NotFound.tsx
+|   |   
+|   +---Auth
+|   |       Auth.tsx
+|   |       
+|   +---Cart
+|   |       Cart.tsx
+|   |       
+|   +---Contact
+|   |       Contact.tsx
+|   |       
+|   +---Home
+|   |       FilterBar.tsx
+|   |       Home.tsx
+|   |       
+|   \---ProductDetail
+|           ProductDetail.tsx
+|           
++---routes
+\---store
+        cartStore.ts
+        useCartStore.ts
+        
